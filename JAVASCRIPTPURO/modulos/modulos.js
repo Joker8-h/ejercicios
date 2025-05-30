@@ -1,0 +1,1 @@
+cont magicNumber = 42;
