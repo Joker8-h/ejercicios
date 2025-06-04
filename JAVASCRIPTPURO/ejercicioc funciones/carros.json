@@ -1,0 +1,27 @@
+[
+    {
+        "placa": "ABC123",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "añoo": 2020,
+        "color": "Rojo",
+        "precio": 25000
+    },
+    {
+        "placa": "DEF456",
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "año": 2018,
+        "color": "Azul",
+        "precio": 30000
+    },
+    {
+        "placa": "GHI789",
+        "marca": "Chevrolet",
+        "modelo": "Camaro",
+        "año": 2019,
+        "color": "Negro",
+        "precio": 35000
+    },
+    
+]
